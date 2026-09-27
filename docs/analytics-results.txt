@@ -1,0 +1,25 @@
+Batch Data Pipeline - Athena Analytics Results
+===============================================
+
+Total Records
+-------------
+10
+
+Regional Sales
+--------------
+West    194000.0
+North   118000.0
+South    72500.0
+
+Daily Sales
+-----------
+2026-09-01    122500.0
+2026-09-02     57000.0
+2026-09-03     48000.0
+2026-09-04     79000.0
+2026-09-05     78000.0
+
+Category Analytics
+------------------
+Electronics    25 units    294500.0
+Furniture       6 units     90000.0
